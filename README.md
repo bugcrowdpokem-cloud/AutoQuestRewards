@@ -1,4 +1,5 @@
-## DON'T RUN IF YOU DON'T TRUST IT, THIS WAS MADE BY PATRICKWITHKANYEWEST ON DISCORD
+## THIS WAS MADE BY PATRICKWITHKANYEWEST ON DISCORD
+## Original https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb code for manual code that I have made automated
 ## This only gives you rewards, doesn't give you information
 ## All files should be able to look into, no exes of such.
 
