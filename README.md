@@ -8,6 +8,19 @@
 
 ## *** Make sure Discord is fully CLOSED inorder to work ***
 
+
+If you wish to set up manually,
+Run Menu, then Setup 
+Then close AutoHotKey setup
+Then go to quests and accept them (Some won't work)
+Press Ctrl Shift I at the same time 
+Go to Console 
+Type allow pasting
+Ctrl V
+
+And wait
+
+
 1. Go inside bin folder and run Menu
 2. Enter 2 to Setup
 
